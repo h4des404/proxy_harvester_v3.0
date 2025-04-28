@@ -145,14 +145,33 @@ response = requests.get("https://example.com", proxies=proxies)
 
 ## 🧐 Créditos
 
-Projeto desenvolvido por **404Group Intelligence**  
+Projeto desenvolvido por **h4des404 | 404Group**  
 💬 Para sugestões ou melhorias, abra uma `issue` ou mande uma `pull request`!
+
+---
+
+## ❤️ Agradecimentos
+
+Gostaríamos de agradecer às tecnologias e às comunidades que tornaram este projeto possível:
+
+**Python** - Linguagem de programação principal utilizada.
+
+**Requests** - Para todas as requisições HTTP.
+
+**BeautifulSoup4** - Para o parsing de HTML.
+
+**Colorama** - Para adicionar cor no terminal.
+
+**Pandas** - Para manipulação e exportação de dados.
+
+**Git LFS** - Para gerenciar arquivos grandes no repositório.
 
 ---
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a licença **MIT** — veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto é apenas para uso educacional e testes de segurança autorizados. Não nos responsabilizamos por usos indevidos. 
+Licença **MIT** — veja o arquivo [LICENSE] para detalhes.
 
 ---
 

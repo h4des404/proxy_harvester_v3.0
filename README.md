@@ -152,7 +152,7 @@ Projeto desenvolvido por **h4des404 | 404Group**
 
 ## ❤️ Agradecimentos
 
-Gostaría de agradecer às tecnologias e às comunidades que tornaram este projeto possível:
+Gostaria de agradecer às tecnologias e às comunidades que tornaram este projeto possível:
 
 **Python** - Linguagem de programação principal utilizada.
 

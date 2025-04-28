@@ -71,12 +71,6 @@ git clone https://github.com/h4des404/proxy_harvester_v3.0.git
 cd proxy_harvester_v3.0
 ```
 
-> **Atenção:** como o projeto utiliza arquivos grandes (`git lfs track` foi usado), após o clone você deve puxar os arquivos via LFS:
-
-```bash
-git lfs pull
-```
-
 ---
 
 ## ▶️ Como executar a ferramenta
@@ -84,14 +78,14 @@ git lfs pull
 Basta rodar:
 
 ```bash
-python proxy_harvester_v3.0
+./proxy_harvester_v3.0
 ```
 
 > Obs.: Pode ser necessário dar permissão de execução no Linux/Mac:
 
 ```bash
 chmod +x proxy_harvester_v3.0
-python3 proxy_harvester_v3.0
+./proxy_harvester_v3.0
 ```
 
 ---

@@ -67,8 +67,8 @@ git lfs install
 ### 2. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/h4des404/proxy_harvester_v3.0.git
+cd proxy_harvester_v3.0
 ```
 
 > **Atenção:** como o projeto utiliza arquivos grandes (`git lfs track` foi usado), após o clone você deve puxar os arquivos via LFS:

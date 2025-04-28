@@ -171,7 +171,7 @@ Gostaríamos de agradecer às tecnologias e às comunidades que tornaram este pr
 ## 📜 Licença
 
 Este projeto é apenas para uso educacional e testes de segurança autorizados. Não nos responsabilizamos por usos indevidos. 
-Licença **MIT** — veja o arquivo [LICENSE] para detalhes.
+Licença **MIT** — veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ---
 
